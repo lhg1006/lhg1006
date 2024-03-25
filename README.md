@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=120&section=header&text=🌐WEB%20ᴅᴇᴠᴇʟᴏᴘᴇʀ&fontSize=45" />
 </div>
-
+ <br/>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=55&section=header&text=💻Tech%20Stack&fontSize=25" />
 <div/>
@@ -30,7 +30,8 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white">
 </div>
 <br/><br/>
-<h3 align="center">📫 Contact</h3>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=55&section=header&text=📫Contact%20&fontSize=25" />
+<h3 align="center"></h3>
 <div align="center">
   <a href="mailto:lhg961006@gmail.com">
     <img
