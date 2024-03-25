@@ -19,9 +19,10 @@
   <br/>
   <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=white"> 
-  <img src="https://img.shields.io/badge/Typescript-1E8CBE?style=flat-square&amp;logo=Typescript&amp;logoColor=white"><br/>
+  <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&amp;logo=JQuery&amp;logoColor=white"> <br/>
+  <img src="https://img.shields.io/badge/Typescript-1E8CBE?style=flat-square&amp;logo=Typescript&amp;logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white"> <br/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white"> 
   <br/><br/>
   📙 𝙏𝙤𝙤𝙡𝙨
