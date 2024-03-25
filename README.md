@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white">
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"><br/>
+<img src="https://img.shields.io/badge/JSP-FFCA28?style=flat-square&amp;logo=JSP&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white"> 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&amp;logo=Firebase&amp;logoColor=white">
   <br/><br/>
