@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=120&section=header&text=🌐WEB%20ᴅᴇᴠᴇʟᴏᴘᴇʀ&fontSize=45" />
+  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=120&section=header&text=💻ᴅᴇᴠᴇʟᴏᴘᴇʀ%20&fontSize=45" />
 </div>
  <br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=55&section=header&text=💻Tech%20Stack&fontSize=25" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=55&section=header&text=🔧Tech%20Stack&fontSize=25" />
 <div/>
   <br/>
 <div align="center">
