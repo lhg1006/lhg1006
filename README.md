@@ -3,7 +3,7 @@
 </div>
  <br/>
 <div align="center">
-  <a href="https://lhg1006.github.io/"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=55&section=header&text=📝%20Portfolio%&fontSize=25" /></a>
+  <a href="https://lhg1006.github.io/"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=55&section=header&text=📝%20Portfolio%20Link%&fontSize=25" /></a>
 <div/>
  <br>
 <div align="center">
