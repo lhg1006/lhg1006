@@ -59,10 +59,13 @@
 <br/>
 
 <div align="center">
-  <h3>🔍 Portfolio & Contact</h3>
+  <h3>🔍</h3>
   <p>
-    <a href="https://www.notion.so/9afbb221a2e949fa8236cb9641363ccd">
-      <img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Notion&logoColor=white"/>
+    <a href="https://lhg1006.github.io/" style="margin-right: 5px;">
+      <img src="https://img.shields.io/badge/GitHUB_PF-181717?style=for-the-badge&logo=Github&logoColor=white"/>
+    </a>
+    <a href="https://www.notion.so/9afbb221a2e949fa8236cb9641363ccd" style="margin-right: 5px;">
+      <img src="https://img.shields.io/badge/Notion_PF-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
     </a>
     <a href="mailto:lhg961006@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
