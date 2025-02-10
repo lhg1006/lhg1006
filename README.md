@@ -1,58 +1,52 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=auto&height=120&section=header&text=💻%20ᴅᴇᴠᴇʟᴏᴘᴇʀ%20&fontSize=45" />
-</div>
- <br/>
-<div align="center">
-  <a href="https://lhg1006.github.io/"><img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=55&section=header&text=📝%20Portfolio%20Link%&fontSize=25" /></a>
-<div/>
- <br>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=55&section=header&text=🔧%20Tech%20Stack&fontSize=25" />
-<div/>
-  <br/>
-<div align="center">
-  📗 𝘽𝙖𝙘𝙠-𝙚𝙣𝙙
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&amp;logo=JAVA&amp;logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white"> 
-  <br/><br/>
-  📘 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙
-  <br/>
-  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&amp;logo=next.js&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=white"> 
-  <img src="https://img.shields.io/badge/Typescript-1E8CBE?style=flat-square&amp;logo=Typescript&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white"> 
-  <br/><br/>
-  📙 𝙏𝙤𝙤𝙡𝙨
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white">
-</div>
-<br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=55&section=header&text=📫%20Contact%20&fontSize=25" />
-<h3 align="center"></h3>
-<div align="center">
-  <a href="mailto:lhg961006@gmail.com">
-    <img
-      src="https://img.shields.io/badge/lhg961006@gmail.com-skyblue?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Developer%20👋&fontSize=50&animation=fadeIn" />
 </div>
 
+<div align="center">
+  <h3>🚀 Welcome to my GitHub!</h3>
+  <p>열정적인 개발자로서 새로운 기술을 배우고 성장하는 것을 즐깁니다.</p>
+</div>
 
+<br/>
 
-<!--
-**lhg1006/lhg1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=lhg1006&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhg1006&theme=radical" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>💻 Tech Stack</h3>
+  
+  <h4>🌐 Frontend</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js" />
+  </p>
+  
+  <h4>⚙️ Backend</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,mysql" />
+  </p>
+  
+  <h4>🛠 Tools</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔍 Portfolio & Contact</h3>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Notion&logoColor=white)](https://lhg1006.github.io/)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lhg961006@gmail.com)
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
