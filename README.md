@@ -30,11 +30,11 @@
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=lhg1006&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhg1006&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lhg1006&theme=radical&row=1&column=6" />
+  <!-- default 테마 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lhg1006&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lhg1006" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lhg1006&theme=flat&row=1&column=6" />
 </div>
-
 <br/>
 
 <div align="center">
