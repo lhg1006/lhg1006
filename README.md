@@ -61,7 +61,7 @@
 <div align="center">
   <h3>🔍 Portfolio & Contact</h3>
   <p>
-    <a href="https://lhg1006.github.io/">
+    <a href="https://www.notion.so/9afbb221a2e949fa8236cb9641363ccd">
       <img src="https://img.shields.io/badge/Portfolio-FF3633?style=for-the-badge&logo=Notion&logoColor=white"/>
     </a>
     <a href="mailto:lhg961006@gmail.com">
