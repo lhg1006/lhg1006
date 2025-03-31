@@ -14,7 +14,7 @@
     <tr>
       <td>
         • 웹 프론트엔드 개발 (React, Next.js)<br/>
-        • 백엔드 시스템 설계 (Node.js, Spring)<br/>
+        • 백엔드 시스템 설계 (Java, Spring)<br/>
         • 사용자 중심의 UI/UX
       </td>
       <td>
