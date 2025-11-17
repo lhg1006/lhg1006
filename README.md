@@ -4,49 +4,21 @@
 
 <div align="center">
 
-### 🚀 Welcome to My GitHub
+### 🚀 이효규 | Fullstack Developer
 
-열정과 성실함으로 성장하는 **풀스택 개발자**입니다.  
-새로운 기술에 대한 호기심과, 사용자 중심의 개발을 추구합니다. 🌱
-
-</div>
-
----
-
-<div align="center">
-
-### 🧭 About Me
-
-💡 **React, Next.js, Spring Boot** 기반의 개발을 즐깁니다.  
-🧼 **클린 코드, 아키텍처 설계**에 관심이 많아요.  
-🎯 협업과 커뮤니케이션을 중요하게 생각합니다.
+3년차 풀스택 개발자로, 백엔드부터 프론트엔드까지 제품 전체를 설계하고 구현할 수 있습니다.<br/>
+Spring Boot 기반 API 서버 개발과 Next.js/React 기반 프론트엔드 개발 경험을 보유하고 있습니다.
 
 </div>
 
 ---
 
 <div align="center">
+  
+### 💼 Work Experience
 
-### 🌟 관심 분야 & 현재 학습 중
-
-<table>
-  <tr>
-    <th>🎯 주요 관심 분야</th>
-    <th>📚 현재 학습 중</th>
-  </tr>
-  <tr>
-    <td align="center">
-      웹 프론트엔드 (React/Next.js)<br/>
-      백엔드 시스템 설계 (Java, Spring Boot)<br/>
-      사용자 중심의 UI/UX
-    </td>
-    <td align="center">
-      클린 코드 & 디자인 패턴<br/>
-      마이크로서비스 아키텍처<br/>
-      성능 최적화 기법
-    </td>
-  </tr>
-</table>
+**Fullstack Developer | (주)지피티코리아 2024.07 - 현재**<br/><br/>
+Fullstack Developer | (주)여보야 2022.05 - 2023.12<br/>
 
 </div>
 
@@ -60,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
 
 #### ⚙️ Backend  
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgresql,mongodb" />
 
 #### 🛠 Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
