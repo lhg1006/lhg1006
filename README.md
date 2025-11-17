@@ -18,7 +18,7 @@ Spring Boot 기반 API 서버 개발과 Next.js/React 기반 프론트엔드 개
 ### 💼 Work Experience
 
 **Fullstack Developer | (주)지피티코리아 2024.07 - 현재**<br/><br/>
-Fullstack Developer | (주)여보야 2022.05 - 2023.12<br/>
+Web Developer | (주)여보야 2022.05 - 2023.12<br/>
 
 </div>
 
