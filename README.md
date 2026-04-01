@@ -4,11 +4,10 @@
 
 <div align="center">
 
-### 🚀 이효규 | Fullstack Developer
+### 🚀 이효규 | Frontend Developer
 
-4년차 풀스택 개발자로, 백엔드부터 프론트엔드까지 제품 전체를 설계하고 구현할 수 있습니다.<br/>
-Spring Boot 기반 API 서버 개발과 Next.js/React 기반 프론트엔드 개발 경험을 보유하고 있습니다.
-
+4년차 프론트엔드 개발자로, React·Next.js·TypeScript 기반 웹 서비스를 설계하고 구현합니다. <br/>
+B2B 플랫폼, AI 서비스, 데이터 대시보드 등 다양한 프로젝트 경험을 보유하고 있습니다.
 </div>
 
 ---
