@@ -35,7 +35,7 @@
 
 ### 💼 Work Experience
 
-**(주)지피티코리아** · Fullstack Developer | 2024.07 - 현재 <br/>
+**(주)지피티코리아** · Fullstack Developer | 2024.07 - 2026.05 <br/>
 `아몬드에듀 (B2B)` · `AIELS (AI 영어)` · `이그잼포유 (AI 시험)`
 
 <br/>
