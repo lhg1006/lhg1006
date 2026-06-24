@@ -24,7 +24,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge)](https://lhg-portfolio.vercel.app/)
 [![메유](https://img.shields.io/badge/🎮%20메유%20(월%205만%20PV)-4CAF50?style=for-the-badge)](https://malan-util.com)
-[![Blog](https://img.shields.io/badge/📝%20Blog%20(17%2B%20posts)-FF6B6B?style=for-the-badge)](https://hamzz1.tistory.com/)
+[![Blog](https://img.shields.io/badge/📝%20Blog-FF6B6B?style=for-the-badge)](https://hamzz1.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lhg961006@gmail.com)
 
 </div>
