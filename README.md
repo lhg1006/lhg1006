@@ -35,8 +35,10 @@
 
 ### 💼 Work Experience
 
+**(주)마케팅** · Fullstack Developer | 2026.10 - 현재 <br/>
+
 **(주)지피티코리아** · Fullstack Developer | 2024.07 - 2026.05 <br/>
-`아몬드에듀 (B2B)` · `AIELS (AI 영어)` · `이그잼포유 (AI 시험)` · `AI 벡터 검색` <br/>
+`아몬드에듀 (LMS)` · `AIELS (LMS)` · `이그잼포유 (LMS)` · `AI 벡터 검색` <br/>
 <sub>프론트 주도 + Spring Boot 백엔드 · AIELS/벡터검색은 DB설계~배포 1인 전담</sub>
 
 <br/>
